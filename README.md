@@ -8,7 +8,6 @@ A web application built using ASP.NET Core MVC and C# to manage employee records
 - CRUD operations for employee records
 - Search employees
 - Filter by department and employee type
-- Pagination
 - Form validation
 - SQL Server database integration using Entity Framework Core
 
